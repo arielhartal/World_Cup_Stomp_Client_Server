@@ -1,0 +1,1 @@
+There was a problem with running the main server, don't remember why but it's not major (think it was something with comparing strings not as I should '==' instead of isEqual.
